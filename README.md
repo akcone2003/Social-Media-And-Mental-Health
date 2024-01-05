@@ -23,4 +23,5 @@ There is a detailed summary in the notebook located in the repo, however, a brie
 * Built KMeans Clustering model to uncover the structure of the data and find tendencies in the respondents
 
 __Source__
+<br>
 The dataset was retrieved from Kaggle.com at the following [link](https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health/data).
