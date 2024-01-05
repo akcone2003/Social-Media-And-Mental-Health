@@ -2,6 +2,7 @@
 This data science project aims to explore and analyze the potential effects of social media on mental health. As social media platforms continue to play an integral role in our daily lives, there is growing interest in understanding how these digital spaces may impact our mental well-being.
 
 __Background__
+<br>
 Social media has become a pervasive aspect of modern society, providing individuals with unprecedented opportunities for connectivity, information sharing, and self-expression. However, concerns have been raised regarding the potential negative consequences of prolonged social media use on mental health. Studies suggest a complex interplay between social media engagement and various mental health factors, including but not limited to:
 
 Depression and Anxiety: Some research suggests a correlation between heavy social media use and increased levels of depression and anxiety.
@@ -15,6 +16,7 @@ Cyberbullying: The online environment can facilitate cyberbullying, contributing
 Sleep Disruption: Excessive use, especially before bedtime, might disrupt sleep patterns, affecting overall mental well-being.
 
 __Summary__
+<br>
 There is a detailed summary in the notebook located in the repo, however, a brief summary:
 * Conducted thorough data cleaning and analysis
 * Performed statistical tests to uncover relationships
